@@ -1,2 +1,2 @@
 # vet-sepex
-Aplicação que será desenvolvida durante o curso de laravel-php
+Aplicação a ser desenvolvida durante o curso de laravel-php, realiado na sepex do CEFET-RJ polo Nova Friburgo.
